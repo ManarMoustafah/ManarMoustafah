@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manar</h1>
 <h3 align="center">I'm 3th year Computer Science Student at BZU.</h3>
-<h3 align="center">Member in Computer Science club at BZU.</h3>
+<h3 align="center">Member in Computer Science club at BZU</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
