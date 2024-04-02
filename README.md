@@ -2,7 +2,7 @@
 <h3 align="center">🔹I'm 3th year Computer Science Student at BZU🔹</h3>
 <h3 align="center">🔹Member in Computer Science club at BZU🔹</h3>
 <h3 align="center">🔹______________________________________🔹</h3>
-
+<h3 align="center">🔹How to reach me **1211519@student.birzeit.edu**🔹</h3>
 - 📫             🔹How to reach me **1211519@student.birzeit.edu**🔹
 
 <h3 align="left">Languages and Tools:</h3>
