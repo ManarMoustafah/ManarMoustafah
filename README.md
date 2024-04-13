@@ -1,7 +1,7 @@
 <h1 align="center">Ahlan🩵, It's Manar Moustafa</h1>
 <h3 align="center">🔹I'm 3th year Computer Science Student at BZU🔹</h3>
 <h3 align="center">🔹Member in Computer Science club at BZU🔹</h3>
-<h3 align="center">🔹______________________________________🔹</h3>
+<h3 align="center">🔹=================================🔹</h3>
 <br><br>
 
 - 📫 How to reach me **1211519@student.birzeit.edu**
